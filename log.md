@@ -7,5 +7,5 @@
 **Thoughts** The sense_and_sensibility.py plot needs to have horizontal lines, numbers (to see how many words in Normal vs Filtered text). Need more practice with Mathplotlib. Although, the plot is very simple, I am proud that I managed to analyze and plot the data by only using Python.
 
 **Link(s) to work**
-1. Pytube.py
-2. sense_and_sensibility.py
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/Pytube.py
+2. https://github.com/JerryTheQuad/100-days-of-code/blob/master/sense_and_sensibility.py
