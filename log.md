@@ -2,9 +2,10 @@
 
 ### Day 1: December 28, 2019
 
-**Today's Progress**: I've managed to download my YouTube video via a Python package called 'pytube'. Kudos to @jezzyubeezy.
+**Today's Progress**: I've managed to download my YouTube video via a Python package called 'pytube'. Kudos to @jezzyubeezy. Also, I started working with the NLTK package and Mathplotlib to visualize the data I receive. I took the Sense and Sensibility book, filtered it (got rid of 'words' like '.', ',' , '!' & got rid of repetitive words) and visualized via Mathplotlib.
 
-**Thoughts** 
+**Thoughts** The sense_and_sensibility.py plot needs to have horizontal lines, numbers (to see how many words in Normal vs Filtered text). Need more practice with Mathplotlib. Although, the plot is very simple, I am proud that I managed to analyze and plot the data by only using Python.
 
 **Link(s) to work**
-1.
+1. Pytube.py
+2. sense_and_sensibility.py
