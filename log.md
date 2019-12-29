@@ -9,3 +9,9 @@
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/Pytube.py
 2. https://github.com/JerryTheQuad/100-days-of-code/blob/master/sense_and_sensibility.py
+
+### Day 2: December 29, 2019
+
+**Today's Progress**: I managed to create a simple bar chart by using Matplotlib. Also, I read more on NLTK.
+
+**Thoughts**: More practice with Matplotlib and do exercises tomorrow on NLTK.
