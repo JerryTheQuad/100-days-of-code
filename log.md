@@ -15,3 +15,13 @@
 **Today's Progress**: I managed to create a simple bar chart by using Matplotlib. Also, I read more on NLTK.
 
 **Thoughts**: More practice with Matplotlib and do exercises tomorrow on NLTK.
+
+### Day 3: December 30, 2019
+
+**Today's Progress**: I've managed to complete all the assignments from the nltk.book. It led to defining two functions: the one that calculates the vocabulary size of a text (from the nltk.book by default) and the one that calculates the percentage of a word usage from a text (nltk.book).
+
+**Thoughts** Need more practising, need more reading (NLTK, Matplotlib).
+
+**Link(s) to work**
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/vocab_size.py
+2. https://github.com/JerryTheQuad/100-days-of-code/blob/master/percent.py
