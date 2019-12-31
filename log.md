@@ -25,3 +25,12 @@
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/vocab_size.py
 2. https://github.com/JerryTheQuad/100-days-of-code/blob/master/percent.py
+
+### Day 4: December 31, 2019
+
+**Today's Progress**: I've managed to upload the raw .txt file to python, process it (sent_tokenize) and print out the famous (24th) sentence from Pushkin's 'Evgeniy Onegin'.
+
+**Thoughts** Need more practising, need more reading (NLTK, Matplotlib).
+
+**Link(s) to work**
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/Pushkin_Onegin.py
