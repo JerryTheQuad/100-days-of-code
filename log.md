@@ -34,3 +34,12 @@
 
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/Pushkin_Onegin.py
+
+### Day 5: January 1, 2020
+
+**Today's Progress**: I've managed to plot a conditonal frequancy distribution to see which days are more newsworthy and which days are most romantic, according to the Brown Corpus from the 1960s.
+
+**Thoughts** Need more practising, need more reading (NLTK, Matplotlib).
+
+**Link(s) to work**
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/genre_days.py
