@@ -57,4 +57,4 @@
 **Thoughts** Need more practising, need more reading.
 
 **Link(s) to work**
-1.https://github.com/JerryTheQuad/100-days-of-code/tree/master/Reminder
+1. https://github.com/JerryTheQuad/100-days-of-code/tree/master/Reminder
