@@ -13,4 +13,4 @@ time.sleep(local_time)
 
 print(text)
 #Won't work if you haven't installed & imported 'easygui'
-easygui.msgbox('Please check your reminder', title='Reminder')
+easygui.msgbox(text, title='Reminder')
