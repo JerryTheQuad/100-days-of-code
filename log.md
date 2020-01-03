@@ -43,3 +43,18 @@
 
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/genre_days.py
+
+### Day 6: January 2, 2020
+
+**Today's Progress**: #Django, #python. Managed to run my first local server. Glad to become a part of the community!)
+
+**Thoughts** Need more practising, need more reading.
+
+### Day 7: January 3, 2020
+
+**Today's Progress**: Wrote a simple reminder app that runs fully on #Python3. Such machines as #raspberrypi will benefit from it (the app is only 4KB).
+
+**Thoughts** Need more practising, need more reading.
+
+**Link(s) to work**
+1.https://github.com/JerryTheQuad/100-days-of-code/tree/master/Reminder
