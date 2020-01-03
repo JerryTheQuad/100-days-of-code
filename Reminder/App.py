@@ -1,4 +1,5 @@
 import time
+import easygui
 
 print('What shall I remind you about?')
 text = str(input())
@@ -10,3 +11,4 @@ local_time = float(input()) * 60
 time.sleep(local_time)
 
 print(text)
+easygui.msgbox('Please check your reminder', title='Reminder')
