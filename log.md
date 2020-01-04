@@ -58,3 +58,14 @@
 
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/tree/master/Reminder
+
+### Day 8: January 4, 2020
+
+**Today's Progress**: 
+1. Cleaned up my GitHub NLTK file folder: my #Python3 functions are now in 1 file
+2. Realized you can solve Word Target Puzzles with a few lines of code.
+
+**Thoughts** Need more practising and reading.
+
+**Link(s) to work**
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/NLTK/text_proc.py
