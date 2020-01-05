@@ -69,3 +69,9 @@
 
 **Link(s) to work**
 1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/NLTK/text_proc.py
+
+### Day 9: January 5, 2020
+
+**Today's Progress**: Did not do much today. Read the second chapter of the NLTK Book. Completed the first exercise there, which encapsulates the first chapter.
+
+**Thoughts** I have a full free week ahead of me. Somehow I need to make the most of it in terms of 'real' programming and not 'reading' programming.
