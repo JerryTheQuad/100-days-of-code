@@ -75,3 +75,13 @@
 **Today's Progress**: Did not do much today. Read the second chapter of the NLTK Book. Completed the first exercise there, which encapsulates the first chapter.
 
 **Thoughts** I have a full free week ahead of me. Somehow I need to make the most of it in terms of 'real' programming and not 'reading' programming.
+
+### Day 10: January 7, 2020
+
+**Today's Progress**: 
+1. Plotted the frequency of usage of 'men', 'women', 'people' in State of the Union Addresses with #NLTK. 
+
+**Thoughts** Need to complete NLTK exercises quicker
+
+**Link(s) to work**
+1. https://github.com/JerryTheQuad/100-days-of-code/blob/master/NLTK/state_of_the_union.png
