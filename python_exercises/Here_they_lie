@@ -3,3 +3,20 @@ name = input('What is your name?')
 age = int(input('What is your age?'))
 year = str((2020 - age) + 100)
 print(name + " will be 100 years old in the year " + year)
+
+#Exercise 2: input an even or odd number, output the type. Then input two numbers and see if they are evenly divided.
+number = int(input('Gimme an even or odd number:'))
+mod = number % 2
+if mod > 0:
+    print('This is an odd number')
+elif mod % 4 == 0:
+    print('This is a multiple of 4')
+else:
+    print('This is an even number')
+
+num = int(input('Gimme a number to check:'))
+check = int(input('Gimme a number to divide by:'))
+if num % check == 0:
+    print('Damn I good')
+else:
+    print('Go fuck yourself')
