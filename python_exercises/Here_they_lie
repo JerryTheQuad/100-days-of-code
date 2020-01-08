@@ -1,3 +1,4 @@
+### Exercise 1 ###
 name = input('What is your name?')
 age = int(input('What is your age?'))
 year = str((2020 - age) + 100)
